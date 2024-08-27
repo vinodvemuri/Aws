@@ -1,0 +1,28 @@
+What Is Cloud?
+let assume that you are watching a cloud in the sky. But have you ever thought that you can watch the same cloudin your location.This is how to works you can acces the data/application via 
+the internet at any time in any way.
+What Is Cloud Computing?
+Cloud computing is the delivery of computing services like; Servers,Storage,Database,Networking and Software.
+                                              (or)
+It is the processing of accessing the data or application via internet.
+AWS SERVICES LIKE: Server,Storage,Database,Mobile,Applications.
+
+TYPES OF CLOUD COMPUTING:
+SERVICE MODELS:
+1> SAAS 
+2> PASS
+3>IASS
+SAAS: Software as a service  This model provides software application that can are hosted the manage by the cloud provider and that can be accessed by users other the internet.
+PASS: Platfrom as a service This model provides a platfrom for the customer to develop,run and manage their own applications with out having worry about the underlying infrasture.
+      EX:Lambda Run code with out thinking about the servers.
+IASS: Infrastructure as a service In this model the cloud provider offers virtualized computing resoures such as virtual machine ,storage and networking to customers.
+      EX: Ec2 Elastic compute cloud it is Virtual machine.
+
+Deployment Model:
+1> Public Cloud :It is open to all store access information it is less security when compared to hybrid and private.
+2> Private Cloud : It is used to organizations bulid their data centers. In the cloud security will be very high.
+3> Hybrid Cloud : It is used to both Public an Hybrid it is called as communiteycloudes.
+
+
+Software Development Life Cycle:
+1> Planning 2> Analysis 3> Design 4> Implementation 5> Testing & Integration 6> Maintenance
